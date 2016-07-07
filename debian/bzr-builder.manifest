@@ -1,0 +1,3 @@
+# bzr-builder format 0.3 deb-version {debupstream}+r238+pkg39~daily
+lp:appcenter revid:launchpad_translations_on_behalf_of_elementary-apps-20160706052227-u1jswmb5mklb1pqb
+nest-part packaging lp:~elementary-os/appcenter/deb-packaging debian debian revid:cody@elementary.io-20160620073425-u3jpdh1e61vu578m
