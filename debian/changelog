@@ -1,3 +1,9 @@
+appcenter (0.1+r238+pkg39~daily~ubuntu0.4.1+blankon2) tambora; urgency=medium
+
+  * Add depends appstream-data
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 09 Jul 2016 07:29:13 +0700
+
 appcenter (0.1+r238+pkg39~daily~ubuntu0.4.1+blankon1) tambora; urgency=medium
 
   * Upload to BlankOn 
