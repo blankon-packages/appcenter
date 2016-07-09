@@ -1,3 +1,9 @@
+appcenter (0.1+r238+pkg39~daily~ubuntu0.4.1+blankon3) tambora; urgency=medium
+
+  * Drop Recommend
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 09 Jul 2016 07:32:14 +0700
+
 appcenter (0.1+r238+pkg39~daily~ubuntu0.4.1+blankon2) tambora; urgency=medium
 
   * Add depends appstream-data
